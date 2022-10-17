@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BluetoothCarOpener-Kotlin</string>
+    <string name="write_data">Write Data</string>
+    <string name="send_btn">Send Data</string>
+    <string name="data_written">Data Written</string>
+    <string name="bluethooth_status">Bluetooth Status:</string>
+    <string name="bluethooth_on">Bluetooth ON</string>
+    <string name="bluethooth_off">Bluetooth OFF</string>
+    <string name="discoverable">Discoverable</string>
+    <string name="paired_devices">Get Paired Devices</string>
+    <string name="bluetooth_devices_available">Bluetooth Devices Available</string>
+    <string name="available_cars">Available Cars</string>
+    <string name="available_devices">Available Devices</string>
+    <string name="showCarsAvailable">Show Available Cars</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
